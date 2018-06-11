@@ -9,6 +9,8 @@ JUNE: 2018
 
     - *sudo pip3 install jupyter* 
     - **jupyter notebook**
+    
+ 2. This [openmv software] is a good start point for the NEW Camera iot
 
 
 
