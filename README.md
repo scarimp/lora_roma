@@ -11,8 +11,7 @@ JUNE: 2018
     - **jupyter notebook**
     
  2. This [openmv software](https://openmv.io/pages/download) is a good start point for the NEW Camera iot.
-
-
+ 3. News from openmv [twitter world](https://twitter.com/openmvcam)
 
 
 
