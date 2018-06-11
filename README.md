@@ -14,7 +14,7 @@ JUNE: 2018
  3. News from openmv [twitter world](https://twitter.com/openmvcam)
 
 
-
+---------------
 
 MAY: 2018
 =========
