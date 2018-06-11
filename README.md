@@ -1,7 +1,9 @@
 # lora_roma
 News on IOT and ML with Allan and Anders.
 
-in June 2018 Anders said :
+JUNE: 2018 
+
+Anders said :
 
 Another interesting field is [weather forecasting and machine learning:](http://stackabuse.com/using-machine-learning-to-predict-the-weather-part-1/)
 
