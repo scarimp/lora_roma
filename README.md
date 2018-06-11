@@ -5,7 +5,10 @@ News on IOT and ML with Allan and Anders. To contribute to this document , for n
 
 JUNE: 2018 
 
-1. To install Jupyter in Raspberry, you can see this:[Installing jupyter in Raspberry PI 3 :](http://www.instructables.com/id/Jupyter-Notebook-on-Raspberry-Pi/), but it would be sufficient this : *sudo pip3 install jupyter* and after **jupyter notebook**
+1. To install Jupyter in Raspberry, you can see this:[Installing jupyter in Raspberry PI 3 ](http://www.instructables.com/id/Jupyter-Notebook-on-Raspberry-Pi/), but it would be sufficient this :
+
+    - *sudo pip3 install jupyter* 
+    - **jupyter notebook**
 
 
 
