@@ -10,6 +10,7 @@ JUNE: 2018
     - **jupyter notebook**   
  2. This [openmv software](https://openmv.io/pages/download) is a good start point for the NEW Camera iot.
  3. News from openmv [twitter world](https://twitter.com/openmvcam)
+ 4. Time series ,  a data points collected at constant time intervals [from analyticsvidhya ](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
 
 
 ---------------
