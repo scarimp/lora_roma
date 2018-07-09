@@ -14,8 +14,8 @@ LG02 & OLG02 can support the LoRaWAN protocol in single frequency and customized
 
 LG02 / OLG02 can be used to provide a low cost IoT wireless solution to support 50~300 sensor nodes.
  
-Except LoRaWAN mode, LG02 / OLG02 can support other working on mutiply working mode such as: LoRa repeater mode, MQTT mode, TCP/IP Client mode, TCP/IP Server mode to fit different requirement for IoT connection. Click this link for more info about the modes. 
-LG02 / OLG02 base on sx1276 solution which provide a low cost for your IoT network connection. Compare to the cost with normal SX1301 LoRaWAN solution. the LG02 / OLG02 are only of its 1/4 or less cost. This make the LG02 / OLG02 very suitable to set up small scale LoRa network or use it to extend the coverage of current LoRaWAN network. 
+Except LoRaWAN mode, LG02 / OLG02 can support other working on mutiply working mode such as: **LoRa repeater mode, MQTT mode, TCP/IP Client mode, TCP/IP Server mode** to fit different requirement for IoT connection. Click this link for more info about the modes. 
+LG02 / OLG02 base on **sx1276** solution which provide a low cost for your IoT network connection. Compare to the cost with normal SX1301 LoRaWAN solution. the LG02 / OLG02 are only of its 1/4 or less cost. This make the LG02 / OLG02 very suitable to set up small scale LoRa network or use it to extend the coverage of current LoRaWAN network. 
  
 Features: 
    --Open Source OpenWrt system
@@ -64,7 +64,7 @@ For more documents for LG02 / OLG02, please refer:
 
 ---------------
 
-####MAY: 2018
+#### MAY: 2018
 
 
 1. NEW Camera iot  [see:](https://openmv.io/).The OpenMV project is about creating low-cost, extensible, Python powered, machine vision modules and aims at becoming the “Arduino of Machine Vision“. Our goal is to bring machine vision algorithms closer to makers and hobbyists. We’ve done the difficult and time-consuming algorithm work for you leaving more time for your creativity.
