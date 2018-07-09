@@ -1,12 +1,11 @@
 # lora_roma
 News on IOT and ML with Allan and Anders. To contribute to this document , for now send comments to f.luzio@converge.it
 
-####JULY:2018
+#### JULY:2018
 
 Thank you all along our company’s support.  
 We would like to let you know the launch Dual Channels LoRa gateway. 
- 
-         
+          
 Overview: LG02 & OLG02 are open source dual channels LoRa Gateway. They can be used to bridge LoRa wireless network to IP network via WiFi, Ethernet, 3G or 4G cellular. The
 LoRa wireless allows users to send data and reach extremely long ranges at low data-rates. It provides ultra-long range spread spectrum communication and high interference immunity. With LG02/OLG02, user can build a long range wireless IoT solution rapidly. 
 
@@ -59,7 +58,7 @@ Direct: +86 755 86610829 |Fax: +86 755 86647123
 
 
 
-####JUNE: 2018 
+#### JUNE: 2018 
 
 1. To install Jupyter in Raspberry, you can see this:[Installing jupyter in Raspberry PI 3 ](http://www.instructables.com/id/Jupyter-Notebook-on-Raspberry-Pi/), but it would be sufficient this :
     - *sudo pip3 install jupyter* 
