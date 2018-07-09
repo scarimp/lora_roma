@@ -45,16 +45,10 @@ Typical Applications:
    --GPS tracker,etc   
    --LoRaWAN repeater
 
-I wish our new product will be useful for your projects. If you have any questions about this , please contact me. 
- 
 For more documents for LG02 / OLG02, please refer: 
 •	Product Page: http://www.dragino.com/products/lora/item/135-lg02.html & http://www.dragino.com/products/lora/item/136-olg02.html 
 •	Datasheet: http://www.dragino.com/downloads/index.php?dir=datasheet/EN/&file=Datasheet_LG02_OLG02.pdf   
 
-Dragino Technology Co., Limited 
-Room 1101, City Develop Commercial Center,  No.546 QingLinRoad 
-LongCheng Street, LongGang District ; Shenzhen 518101,China 
-Direct: +86 755 86610829 |Fax: +86 755 86647123  
 
 
 
