@@ -3,6 +3,11 @@ News on IOT and ML with Allan and Anders. To contribute to this document , for n
 
 #### JULY:2018
 
+Another article (by Susan Li) about [time series](https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b)
+
+
+
+------------------------------------------------------
 Thank you all along our company’s support.  
 We would like to let you know the launch Dual Channels LoRa gateway. 
           
