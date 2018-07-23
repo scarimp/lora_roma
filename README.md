@@ -3,6 +3,8 @@ News on IOT and ML with Allan and Anders. To contribute to this document , for n
 
 #### JULY:2018
 
+About weather data,  MetPy is a collection of tools in Python for reading, visualizing and performing calculations with [weather data.](https://github.com/Unidata/MetPy). 
+----------------------------------------------------------------------------------------------
 Another article (by Susan Li) about [time series](https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b)
 
 Time series analysis comprises methods for analyzing time series data in order to extract meaningful statistics and other characteristics of the data. Time series forecasting is the use of a model to predict future values based on previously observed values.
