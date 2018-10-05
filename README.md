@@ -17,7 +17,11 @@ The Data
 
 We are using Superstore sales data that can be downloaded from [here](https://community.tableau.com/docs/DOC-1236).
 
+In the article there is Prophet:
 
+Time Series Modeling with Prophet
+
+Released by Facebook in 2017, forecasting tool Prophet is designed for analyzing time-series that display patterns on different time scales such as yearly, weekly and daily. It also has advanced capabilities for modeling the effects of holidays on a time-series and implementing custom changepoints. Therefore, we are using Prophet to get a model up and running.
 
 ------------------------------------------------------
 Thank you all along our company’s support.  
