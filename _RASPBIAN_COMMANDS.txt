@@ -1,0 +1,68 @@
+#######################GIT Commands
+#create an ssh key
+ssh-keygen -t rsa -b 4096 -C "f.luzio@econverge.it"
+
+ls -al ~/.ssh
+# Lists the files in your .ssh directory, if they exist
+
+
+
+Add your SSH private key to the ssh-agent. 
+If you created your key with a different name, 
+or if you are adding an existing key that has a 
+different name, replace id_rsa in the command 
+with the name of your private key file.
+
+ssh-add ~/.ssh/id_rsa
+
+REWIVING ssh key help
+https://help.github.com/articles/reviewing-your-ssh-keys/
+
+
+######################################raspbian commands
+
+cat /etc/os-release
+uname -a
+
+
+#spazio su disco
+df -h
+
+sudo apt-get update
+sudo apt-get dist-upgrade
+
+-------------------------------------------------------------NETWORK
+Change the contents of the hostname file, replacing raspberrypi with the new name raspberry01.
+$ sudo nano /etc/hostname
+
+$ sudo raspi-config
+
+Change the content of the hosts file, replacing raspberrypi with the new name raspberry01.
+$ sudo nano /etc/hosts
+	
+$ sudo nano /etc/hosts
+
+sudo hostname raspberry01
+
+cat /etc/network/interfaces
+
+hostname -I
+
+sudo ifconfig
+
+cat /etc/dhcpcd.conf
+
+-------------------------------------------------
+python wheels
+
+wget public.easybyte.it/downloads/nightly/kongalib-1.6.0-cp27-cp27mu-manylinux1_x86_64.whl
+
+---------------------------------  CPU Clok
+-misura la temperatura cpu raspberry01
+/opt/vc/bin/vcgencmd measure_temp
+
+frequenza clock
+vcgencmd measure_clock arm
+
+
+
