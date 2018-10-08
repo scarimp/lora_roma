@@ -3,7 +3,10 @@ News on IOT and ML with Allan and Anders. To contribute to this document , for n
 
 #### OCTOBER:2018
 For the next meeting , i upload a group of files (documentation and programs in python) about the sensor **BOSCH_BME680**.
-I think this example is a good start point about raspberry , python , wheather station and transitting data to the cloud(Corlysis). A presto
+I think this example is a good start point about raspberry , python , wheather station and transitting data to the cloud(Corlysis).
+[This python program ](https://github.com/ControlEverythingCommunity/BME280/blob/master/Python/BME280.py )is expressly for wheater station sensor.
+
+A presto
 
 #### JULY:2018
 
