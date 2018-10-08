@@ -3,7 +3,7 @@ News on IOT and ML with Allan and Anders. To contribute to this document , for n
 
 #### october:2018
 For the next meeting , i upload a serie of files (documentation and programs in python) about the sensor **BOSCH_BME680**.
-I think this example is a good strat point about raspberry , python , whether station and transitting data to the cloud(Corlysis). A presto
+I think this example is a good strat point about raspberry , python , wheather station and transitting data to the cloud(Corlysis). A presto
 
 #### JULY:2018
 
