@@ -1,6 +1,10 @@
 # lora_roma
 News on IOT and ML with Allan and Anders. To contribute to this document , for now send comments to f.luzio@converge.it
 
+#### october:2018
+For the next meeting , i upload a serie of files (codumentation and programs in python) about the sensor **BOSCH_BME680**.
+I think this example is a good strat point about raspberry , python , whether station and transitting data to the cloud(Corlysis). A presto
+
 #### JULY:2018
 
 
