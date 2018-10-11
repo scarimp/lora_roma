@@ -9,7 +9,7 @@ I think this example is a good start point about raspberry , python , wheather s
 Today (09/10/2018) Anders send me another program in C (and python) for the **BME680**
 (Https://github.com/twartzek/bme680-raspberry) , very interesting.
 
-And finally i find the [battery i'm looking for Rapberry pi 3(https://www.crowdsupply.com/silicognition/lifepo4wered-pi-plus).Look at [this](https://www.tindie.com/products/xorbit/lifepo4weredpi3/)
+And finally i find the [battery i'm looking for Rapberry pi 3](https://www.crowdsupply.com/silicognition/lifepo4wered-pi-plus).Look also at [this](https://www.tindie.com/products/xorbit/lifepo4weredpi3/)
 
 
 A presto
