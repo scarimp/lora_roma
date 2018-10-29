@@ -1,6 +1,8 @@
 # lora_roma
 News on IOT and ML with Allan and Anders. To contribute to this document , for now send comments to f.luzio@converge.it
+
 ======================================================================================================================
+
 #### OCTOBER:2018
 For the meeting on  31 of october:
 
