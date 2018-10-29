@@ -2,7 +2,9 @@
 News on IOT and ML with Allan and Anders. To contribute to this document , for now send comments to f.luzio@converge.it
 
 #### OCTOBER:2018
-For the meeting on  31 of october this link is very interesting to install open cv on raspberry PI3  [scivision](https://www.scivision.co/install-opencv-python-windows/)
+For the meeting on  31 of october:
+1. This link is very interesting to install open cv on raspberry PI3  [scivision](https://www.scivision.co/install-opencv-python-windows/)
+2. This tool to create an sd card [from an image](https://etcher.io/?ref=etcher_update)
 
 
 For the next meeting , i upload a group of files (documentation and programs in python) about the sensor **BOSCH_BME680**.
