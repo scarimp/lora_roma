@@ -2,6 +2,9 @@
 News on IOT and ML with Allan and Anders. To contribute to this document , for now send comments to f.luzio@converge.it
 
 #### OCTOBER:2018
+For the meeting on  31 of october this link is very interesting [scivision](https://www.scivision.co/install-opencv-python-windows/)
+
+
 For the next meeting , i upload a group of files (documentation and programs in python) about the sensor **BOSCH_BME680**.
 I think this example is a good start point about raspberry , python , wheather station and transitting data to the cloud(Corlysis).
 [This python program ](https://github.com/ControlEverythingCommunity/BME280/blob/master/Python/BME280.py )is expressly for wheater station sensors.
