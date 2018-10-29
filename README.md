@@ -4,7 +4,7 @@ News on IOT and ML with Allan and Anders. To contribute to this document , for n
 =====================================================================
 
 #### OCTOBER:2018
-For the meeting on  31 of october:
+For the meeting on  31 of october about installing opencv in Raspeberry PI 3:
 
 0. Instruction to download and [create an sd card](https://www.raspberrypi.org/documentation/installation/installing-images/).
 1. This link is very interesting to install open cv on raspberry PI3  [scivision](https://www.scivision.co/install-opencv-python-windows/), also [this](https://github.com/skvark/opencv-python).
