@@ -9,8 +9,7 @@ For the meeting on  31 of october:
 0. Instruction to download and [create an sd card](https://www.raspberrypi.org/documentation/installation/installing-images/).
 1. This link is very interesting to install open cv on raspberry PI3  [scivision](https://www.scivision.co/install-opencv-python-windows/), also [this](https://github.com/skvark/opencv-python).
 2. This tool to create an sd card [from an image](https://etcher.io/?ref=etcher_update).
-
-
+3. And finally if you want to use [docker from raspbian](https://github.com/mohaseeb/raspberrypi3-opencv-docker).
 
 -----------------------------------------------------------------------------------------------------------------------
 
