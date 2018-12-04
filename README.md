@@ -1,8 +1,31 @@
 # lora_roma
 News on IOT and ML with Allan and Anders. To contribute to this document , for now send comments to f.luzio@converge.it
 
-=====================================================================
 
+=====================================================================
+DEC 2018
+
+raspicam commands
+
+raspistill, raspivid and raspiyuv are command line tools for using the camera module.
+Basic usage
+
+See guides for basic usage of each of the commands:
+
+    raspistill
+        Capturing still photographs with the camera module
+    raspivid
+        Capturing video with the camera module
+    Time-lapse
+        Taking pictures at regular intervals and stitching them together in to a video
+    raspiyuv
+        Capturing still photographs and generating raw unprocessed image files
+
+Full documentation
+
+Full documentation of the camera can be found at raspbian/applications/camera and hardware/camera.
+
+----------------------------------------------------------------------------------------------------------
 #### OCTOBER:2018
 For the meeting on  31 of october about installing opencv in Raspeberry PI 3:
 
