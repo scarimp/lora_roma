@@ -1,3 +1,8 @@
+Controllori programmabili con [micropython](https://docs.arduino.cc/learn/programming/arduino-and-python)
+
+
+
+
 # lora_roma
 News on IOT and ML with Allan and Anders. To contribute to this document , for now send comments to f.luzio@converge.it
 
